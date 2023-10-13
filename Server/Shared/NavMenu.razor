@@ -5,16 +5,18 @@
 <div class="pl-4 pb-1 pr-0 pt-0 navbar navbar-dark" style="background-color: rgba(0,0,0,0.3)">
     <a class="navbar-brand text-left" href="">
         <div class="logo-title">
+            <img style="width: 300px; height: 159px;" src="/images/conti.png" />
+        </div>
+        <div class="logo-subtitle">
             @if (!string.IsNullOrWhiteSpace(_organization?.OrganizationName))
             {
                 @_organization.OrganizationName
             }
             else
             {
-                <span>Remotely</span>
+                <span>DS-CTS Remotely</span>
             }
         </div>
-        <div class="logo-subtitle">Support Portal</div>
     </a>
     <button class="navbar-toggler" @onclick="ToggleNavMenu">
         <span class="navbar-toggler-icon"></span>
