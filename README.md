@@ -1,3 +1,6 @@
+# DS-CTS 
+I still cannot wrap around how forks and pull requests works so i decided to fork this repo manually (my way :) )
+
 # Remotely
 A remote control and remote scripting solution, built with .NET, Blazor, and SignalR Core.
 
