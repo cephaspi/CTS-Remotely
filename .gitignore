@@ -296,3 +296,12 @@ Server.Installer/Properties/launchSettings.json
 !/.vscode/launch.json
 !/.vscode/tasks.json
 /Server/appsettings.Development.json
+
+# Fody - auto-generated XML schema
+FodyWeavers.xsd
+/submodules/Immense.RemoteControl/Immense.RemoteControl.Server/wwwroot/src/**/*.js
+/submodules/Immense.RemoteControl/Immense.RemoteControl.Server/wwwroot/src/**/*.js.map
+/submodules/Immense.RemoteControl/Immense.RemoteControl.Server/wwwroot/lib/microsoft/signalr-protocol-msgpack/dist/browser
+/submodules/Immense.RemoteControl/Immense.RemoteControl.Server/wwwroot/lib/microsoft-signalr
+/submodules/Immense.RemoteControl/Immense.RemoteControl.Server/wwwroot/lib/msgpack/dist.es5+umd
+/submodules/Immense.RemoteControl/Immense.RemoteControl.Server/wwwroot/lib/fontawesome
