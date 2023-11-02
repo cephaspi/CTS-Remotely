@@ -23,7 +23,7 @@
 	  <Image Grid.Column="0" Height="50" Width="50" Source="{Binding Icon}" VerticalAlignment="Center" />
 	  <StackPanel Grid.Column="2" VerticalAlignment="Center">
         <TextBlock Classes="SectionHeader">
-          Remote Control Active
+          R C Active
         </TextBlock>
         <TextBlock>
           A remote control session has started.
